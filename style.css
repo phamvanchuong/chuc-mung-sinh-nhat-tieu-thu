@@ -124,11 +124,6 @@ img {
   color: #c4515c;
 }
 
-.type {
-  width: 100px;
-  text-wrap: wrap;
-}
-
 .cake {
   transform: translateY(-50%);
   transform: translateX(-50%);
